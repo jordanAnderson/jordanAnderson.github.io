@@ -9,8 +9,10 @@
 title: Jordan Anderson
 email: jtander7@asu.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jordan Anderson.
-  Built with Jekyll.
+  Jordan Anderson. 
+  
+  Built with Jekyll. 
+  
   Hosted on GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
